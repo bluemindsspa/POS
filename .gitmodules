@@ -1,0 +1,4 @@
+[submodule "bluemindsspa/l10n_cl_chart_of_account"]
+	path = bluemindsspa/l10n_cl_chart_of_account
+	url = git@github.com:bluemindsspa/l10n_cl_chart_of_account.git
+	branch = master
