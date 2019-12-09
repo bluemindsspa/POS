@@ -12,3 +12,8 @@
 	path = bluemindsspa/l10n_cl_fe
 	url = git@github.com:bluemindsspa/l10n_cl_fe.git
 	branch = master
+
+[submodule "OCA/reporting-engine"]
+	path = OCA/reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 11.0
