@@ -2,3 +2,8 @@
 	path = bluemindsspa/l10n_cl_chart_of_account
 	url = git@github.com:bluemindsspa/l10n_cl_chart_of_account.git
 	branch = master
+
+[submodule "bluemindsspa/l10n_cl_dte_point_of_sale"]
+	path = bluemindsspa/l10n_cl_dte_point_of_sale
+	url = git@github.com:bluemindsspa/l10n_cl_dte_point_of_sale.git
+	branch = master
