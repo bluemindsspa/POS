@@ -7,3 +7,8 @@
 	path = bluemindsspa/l10n_cl_dte_point_of_sale
 	url = git@github.com:bluemindsspa/l10n_cl_dte_point_of_sale.git
 	branch = master
+
+[submodule "bluemindsspa/l10n_cl_fe"]
+	path = bluemindsspa/l10n_cl_fe
+	url = git@github.com:bluemindsspa/l10n_cl_fe.git
+	branch = master
